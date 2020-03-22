@@ -1,4 +1,12 @@
-<?php ?>
+<?php
+
+global $db;
+
+include "Helper/MyCrypt.php";
+
+$db = new MysqliDb ('rdbms.strato.de', 'U4089283', '*JSei7S2020#', 'DB4089283');
+
+?>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="../CSS/main.css" type="text/css">
