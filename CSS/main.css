@@ -6,3 +6,9 @@ body{
 div .card{
     margin-top: 10px;
 }
+
+.full_size {
+    height: 100%;
+    font-size: 8vw;
+    padding: 25px;
+}
