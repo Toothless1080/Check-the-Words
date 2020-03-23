@@ -19,7 +19,7 @@
 
 <div id="mySidenav" class="sidenav">
     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-    <a href="#">Home</a>
+    <a href="#">Games</a>
     <a href="#">Guess the Words</a>
     <a href="#">I am ...</a>
     <a href="#">How is it used?</a>
