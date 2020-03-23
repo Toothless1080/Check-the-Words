@@ -4,6 +4,7 @@ global $db;
 
 include "Helper/MyCrypt";
 include "Helper/MysqliDb.php";
+include "menu.php";
 
 $db = new MysqliDb ('rdbms.strato.de', 'U4089283', '*JSei7S2020#', 'DB4089283');
 
