@@ -27,4 +27,4 @@
 </div>
 
 <!-- Use any element to open the sidenav -->
-<button class="button button-primary" onclick="openNav()">Menu</button>
+<button class="btn button-primary" onclick="openNav()">Menu</button>
